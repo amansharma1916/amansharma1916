@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aman Sharma</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;MERN+Stack+Web+Developer;Exploring+AI+%26+Machine+Learning;Open+to+Internships" />
+</p>
 <h3 align="center">A Passionate MERN Stack Developer | YouTuber | Tech Enthusiast</h3>
+
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 - 🔭 I’m currently working on **a Renting App**.
 - 🌱 I’m currently learning **DSA in C**, Software Engineering, and French 🇫🇷
-- 👨‍💻 My portfolio is available at [amansharmaportfolio.me](https://amansharmaportfolio.me)
+- 👨‍💻 My portfolio is available at [amansharmaportfolio.me](https://amansharma.tech)
 - 🐶 I love coding as much as I love my dog 🐾
 - 🎮 I run a Gaming YouTube Channel .
 - 💬 Ask me about **MERN stack, C programming, Gaming and PC**
@@ -16,17 +20,9 @@
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,cpp,git,github,vscode" />
 </p>
+
 
 ---
 
