@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **a Renting App**.
 - 🌱 I’m currently learning **DSA in C**, Software Engineering, and French 🇫🇷
-- 👨‍💻 My portfolio is available at [amansharmaportfolio.me](https://amansharma.tech)
+- 👨‍💻 My portfolio is available at [amansharma.tech](https://amansharma.tech)
 - 🐶 I love coding as much as I love my dog 🐾
 - 🎮 I run a Gaming YouTube Channel .
 - 💬 Ask me about **MERN stack, C programming, Gaming and PC**
