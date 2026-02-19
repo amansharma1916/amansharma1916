@@ -11,7 +11,7 @@
   Passionate MERN Stack Developer | YouTuber | Tech Enthusiast
 </h3>
 
-<div align="right">
+<div align="centre">
   <img alt="Coding" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 </div>
 
