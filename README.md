@@ -39,16 +39,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=amansharma1916&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
-    height="170"
-  />
+  
   <img
     src="https://streak-stats.demolab.com?user=amansharma1916&theme=radical"
     height="170"
   />
 </p>
----
+
+
 
 ### 🤝 Connect With Me
 
