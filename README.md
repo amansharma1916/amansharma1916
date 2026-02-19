@@ -39,23 +39,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=amansharma1916&show_icons=true&theme=radical&include_all_commits=true&count_private=true" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=amansharma1916&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
     height="170"
   />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=amansharma1916&theme=radical" 
+  <img
+    src="https://streak-stats.demolab.com?user=amansharma1916&theme=radical"
     height="170"
   />
 </p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansharma1916&layout=compact&theme=radical" 
-    height="150"
-  />
-</p>
-
 ---
 
 ### 🤝 Connect With Me
