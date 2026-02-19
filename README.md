@@ -14,7 +14,6 @@
 <div align="right">
   <img alt="Coding" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 </div>
----
 
 ### 👨‍💻 About Me
 
