@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **a Renting App**
+- 🔭 Currently working on **a Ride Sharing App**
 - 🌱 Learning **DSA in C**, **Software Engineering**, and **French 🇫🇷**
 - 🌐 Portfolio: **[amansharma.tech](https://amansharma.tech)**
 - 🐶 Love coding as much as I love my dog 🐾
