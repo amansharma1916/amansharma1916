@@ -16,7 +16,7 @@
 </div>
 
 ### 👨‍💻 About Me
-- Full Stack Developer @growthAxiss
+- Full Stack Developer
 - 🔭 Currently working on **Machine Learning Models and Data Structures and Algorithms in Python**
 - 🌱 Learning **DSA in C**, **Software Engineering**, and **French 🇫🇷**
 - 🌐 Portfolio: **[amansharma.tech](https://amansharma.tech)**
