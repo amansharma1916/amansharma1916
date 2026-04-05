@@ -18,7 +18,7 @@
 ### 👨‍💻 About Me
 - Full Stack Developer
 - 🔭 Currently working on **Machine Learning Models and Data Structures and Algorithms in Python**
-- 🌱 Learning **DSA in C**, **Software Engineering**, and **French 🇫🇷**
+- 🌱 Learning **DSA in C**, **Software Engineering**
 - 🌐 Portfolio: **[amansharma.tech](https://amansharma.tech)**
 - 🐶 Love coding as much as I love my dog 🐾
 - 🎮 Run a **Gaming YouTube Channel**
