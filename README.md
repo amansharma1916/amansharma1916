@@ -183,11 +183,11 @@ const aman = {
         <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql"/>
         <img src="https://img.shields.io/badge/pgvector-6A5ACD?style=flat"/>
       </p>
-      <a href="https://github.com/YOUR_USERNAME/repoai">
+      <a href="https://github.com/amansharma1916/repoai">
         <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github"/>
       </a>
       &nbsp;
-      <a href="https://repoai-demo.vercel.app">
+      <a href="https://github.com/amansharma1916/repoai">
         <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel"/>
       </a>
     </td>
@@ -208,7 +208,7 @@ const aman = {
         <img src="https://img.shields.io/badge/OpenStreetMap-7EBF4F?style=flat"/>
       </p>
 
-  <a href="https://github.com/YOUR_USERNAME/gotogether">
+  <a href="https://github.com/amansharma1916/goTogether">
         <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github"/>
       </a>
 
@@ -263,15 +263,15 @@ const aman = {
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"
+<!-- <img
+src="https://github-readme-stats.vercel.app/api?username=amansharma1916&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"
 height="180"
-/>
+/> -->
 
 &nbsp;&nbsp;
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansharma1916&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
 height="180"
 />
 
@@ -284,7 +284,7 @@ height="180"
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"
+src="https://github-readme-activity-graph.vercel.app/graph?username=amansharma1916&theme=tokyo-night&hide_border=true&area=true"
 width="100%"
 />
 
@@ -297,31 +297,30 @@ width="100%"
 <div align="center">
 
 <img
-src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"
+src="https://streak-stats.demolab.com?user=amansharma1916&theme=tokyonight&hide_border=true"
 />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
+<!-- <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-  srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg"/>
+  srcset="https://raw.githubusercontent.com/YOUR_USERNAME/amansharma1916/output/github-snake-dark.svg"/>
 
   <source media="(prefers-color-scheme: light)"
-  srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg"/>
+  srcset="https://raw.githubusercontent.com/YOUR_USERNAME/amansharma1916/output/github-snake.svg"/>
 
   <img
   alt="GitHub Snake Animation"
-  src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg"
+  src="https://raw.githubusercontent.com/YOUR_USERNAME/amansharma1916/output/github-snake.svg"
   width="100%"/>
 </picture>
 
-</div>
+</div> -->
 
 ---
 
@@ -329,22 +328,9 @@ src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_b
 
 <div align="center">
 
-<a href="YOUR_LEETCODE_URL" target="_blank">
+<a href="https://leetcode.com/u/amansharma1916/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-
-&nbsp;
-
-<a href="YOUR_GFG_URL" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
-
-&nbsp;
-
-<a href="YOUR_HACKERRANK_URL" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
-</a>
-
 </div>
 
 ---
